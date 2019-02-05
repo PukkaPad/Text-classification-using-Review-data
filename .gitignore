@@ -1,6 +1,12 @@
 nlp_func.py
 modelling_pipeline.py
 data/
+*.dat
+*.txt
+*.png
+*.sublime-project
+*.sublime-workspace
+*.json
 
 *.html
 
@@ -120,3 +126,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+TextClassification-Keras.py
+TextClassification-Keras-old.ipynb

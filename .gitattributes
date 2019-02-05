@@ -1,1 +1,2 @@
-*.ipynb linguist-vendored
+# list repo as python instead of jupiter notebook
+*.py linguist-vendored=false
